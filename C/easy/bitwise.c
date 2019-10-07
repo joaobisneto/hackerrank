@@ -1,5 +1,7 @@
 //HackerRank - C - Practice 7
-//Jo�o Feitoza Bisneto
+//Bitwise Operators
+//URL:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
+//Joao Feitoza Bisneto
 
 #include <stdio.h>
 #include <string.h>

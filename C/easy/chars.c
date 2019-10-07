@@ -1,5 +1,7 @@
 //HackerRank - C - Practice 2
-//João Feitoza Bisneto
+//Bitwise Operators
+//URL: https://www.hackerrank.com/challenges/playing-with-characters
+//Joao Feitoza Bisneto
 
 #include <stdio.h>
 #include <string.h>
@@ -23,5 +25,3 @@ int main(){
 
     return 0;
 }
-
-

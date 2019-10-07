@@ -1,5 +1,7 @@
 //HackerRank - C - Practice 5
-//João Feitoza Bisneto
+//Bitwise Operators
+//URL: https://www.hackerrank.com/challenges/pointer-in-c
+//Joao Feitoza Bisneto
 
 #include <stdio.h>
 
@@ -22,5 +24,3 @@ int main() {
 
     return 0;
 }
-
-

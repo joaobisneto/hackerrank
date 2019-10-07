@@ -1,5 +1,7 @@
 //HackerRank - C - Practice 1
-//João Feitoza Bisneto
+//Bitwise Operators
+//URL: https://www.hackerrank.com/challenges/hello-world-c
+//Joao Feitoza Bisneto
 
 #include <stdio.h>
 #include <string.h>
@@ -17,5 +19,3 @@ int main()
     
     return 0;
 }
-
-

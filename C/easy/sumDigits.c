@@ -1,5 +1,7 @@
-//HackerRank - C - Practice 6
-//João Feitoza Bisneto
+//HackerRank - C - Practice 8
+//Bitwise Operators
+//URL: https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number
+//Joao Feitoza Bisneto
 
 #include <stdio.h>
 #include <string.h>
@@ -28,5 +30,4 @@ int main() {
     
     return 0;
 }
-
 
