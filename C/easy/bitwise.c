@@ -1,5 +1,4 @@
-//HackerRank - C - Practice 7
-//Bitwise Operators
+//HackerRank - C - Practice 9
 //URL:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
 //Joao Feitoza Bisneto
 

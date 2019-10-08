@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 4
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/functions-in-c
 //Joao Feitoza Bisneto
 

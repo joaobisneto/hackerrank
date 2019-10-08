@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 6
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/conditional-statements-in-c
 //Joao Feitoza Bisneto
 

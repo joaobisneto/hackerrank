@@ -1,5 +1,4 @@
-//HackerRank - C - Practice 11
-//Bitwise Operators
+//HackerRank - C - Practice 12
 //URL: https://www.hackerrank.com/challenges/reverse-array-c
 //Joao Feitoza Bisneto
 

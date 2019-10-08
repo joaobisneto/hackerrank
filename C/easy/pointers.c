@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 5
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/pointer-in-c
 //Joao Feitoza Bisneto
 

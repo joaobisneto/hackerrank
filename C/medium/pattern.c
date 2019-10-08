@@ -1,5 +1,4 @@
-//HackerRank - C - Practice 9
-//Bitwise Operators
+//HackerRank - C - Practice 10
 //URL: https://www.hackerrank.com/challenges/printing-pattern-2
 //Joao Feitoza Bisneto
 

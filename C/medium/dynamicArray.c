@@ -1,5 +1,4 @@
-//HackerRank - C - Practice 10
-//Bitwise Operators
+//HackerRank - C - Practice 11
 //URL: https://www.hackerrank.com/challenges/1d-arrays-in-c
 //Joao Feitoza Bisneto
 

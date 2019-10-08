@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 7
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/for-loop-in-c
 //Joao Feitoza Bisneto
 

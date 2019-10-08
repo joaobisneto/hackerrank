@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 2
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/playing-with-characters
 //Joao Feitoza Bisneto
 

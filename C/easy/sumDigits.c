@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 8
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number
 //Joao Feitoza Bisneto
 

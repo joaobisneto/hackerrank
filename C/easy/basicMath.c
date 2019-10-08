@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 3
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/sum-numbers-c
 //Joao Feitoza Bisneto
 

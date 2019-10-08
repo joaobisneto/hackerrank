@@ -1,5 +1,4 @@
 //HackerRank - C - Practice 1
-//Bitwise Operators
 //URL: https://www.hackerrank.com/challenges/hello-world-c
 //Joao Feitoza Bisneto
 
